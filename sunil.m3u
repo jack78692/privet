@@ -119,7 +119,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=200&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 tvg-id="244" group-title="Entertainment", tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png", Star Bharat HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
-http://tv.cloudcdn.me:80/live.ts?channelId=201&deviceMac=00:1A:79:0A:3B:2D
+http://tv.cloudcdn.me:80/live.ts?channelId=195&deviceMac=00:1A:79:0A:3B:2D
 
 
 
