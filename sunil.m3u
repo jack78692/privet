@@ -2431,16 +2431,24 @@ https://jmp2.uk/SamsungTVPlus/INBC280001662.m3u8
 #EXTINF:0 tvg-id="Animax.de" group-title="Kids",Animax
 https://jmp2.uk/SamsungTVPlus/INBD13000043W.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="Hindi News",Aaj Tak HD
-https://jmp2.uk/SamsungTVPlus/IN1700009SR.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Hindi News",Aaj Tak
+https://feeds.intoday.in/aajtak/api/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Hindi News",Aaj Tak 2
+https://feeds.intoday.in/aajtak/api/at2/master.m3u8
+
 #EXTINF:0 tvg-id="NDTV.uk" group-title="Hindi News",NDTV India
-https://jmp2.uk/SamsungTVPlus/INBC2800002WJ.m3u8
+https://dai.google.com/linear/hls/pb/event/cXpfjAMTR4OKnp9WJxHc9g/stream/2b615e99-131d-4f6b-943a-ade311b2086f:SIN/variant/62cdd21dfa745d72ae70e26013d5f9e8/bandwidth/5882800.m3u8
+
 #EXTINF:0 tvg-id="RepublicBharat.uk" group-title="Hindi News",Republic Bharat
-https://jmp2.uk/SamsungTVPlus/INBA490002119.m3u8
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/03b28cdc-4b70-4eca-a24e-9cf929b2e055/1.m3u8?ads.partner=republicweb&sessionId=bc714f0a-d45f-4267-91dc-cd8e98f9b506
+
 #EXTINF:0 tvg-id="ABPNews.uk" group-title="Hindi News",ABP News
-https://jmp2.uk/SamsungTVPlus/INBD400006H0.m3u8
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+
 #EXTINF:0 tvg-id="ZeeNews.uk" group-title="Hindi News",Zee News
-https://jmp2.uk/SamsungTVPlus/INBC4300010Z6.m3u8
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+
 #EXTINF:0 tvg-id="IBN7.in" group-title="Hindi News",News18 India
 https://jmp2.uk/SamsungTVPlus/INBD1300010WP.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi News",Times Now Navbharat
@@ -2449,8 +2457,7 @@ https://jmp2.uk/SamsungTVPlus/INBD1300003OW.m3u8
 https://jmp2.uk/SamsungTVPlus/INBD25000054A.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Hindi News",Good News Today
 https://jmp2.uk/SamsungTVPlus/INBC2800004FU.m3u8
-#EXTINF:0 tvg-id="AAJTAK.uk" group-title="Hindi News",Aaj Tak
-https://jmp2.uk/SamsungTVPlus/INBC2800003RQ.m3u8
+
 #EXTINF:0 tvg-id="CNBCAWAAZ.in" group-title="Hindi News",CNBC AWAAZ
 https://jmp2.uk/SamsungTVPlus/INBD1300007ST.m3u8
 #EXTINF:0 tvg-id="mir" group-title="Hindi News",Zee Business
