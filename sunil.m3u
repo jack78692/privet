@@ -1756,8 +1756,7 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/VH1_HD_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Music",Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-#EXTINF:0 tvg-id="Mastiii.in" group-title="Music",Clubbing TV
-https://prod-sports-hin-fa.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/Clubbing_TV_voot_MOB-audio_98835_hin=98800-video=2600000.m3u8
+
 
 
 #EXTINF:-1 tvg-id="742" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/mh1_Music.png" group-title="Movies",MH One
