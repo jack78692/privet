@@ -1724,7 +1724,7 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 
 #EXTINF:-1 tvg-id="405" group-title="Music", tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png", MTV Beats HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_MTVBeatsHD/JCHLS/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=173&deviceMac=00:1A:79:0A:3B:2D
 
 #EXTINF:-1 tvg-id="9" group-title="Music", tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24-j5fb33y0-v1/imageContent-24-j5fb33y0-m1.png", B4U Music*
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
