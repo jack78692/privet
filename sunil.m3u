@@ -2450,27 +2450,34 @@ https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 
 #EXTINF:0 tvg-id="IBN7.in" group-title="Hindi News",News18 India
-https://jmp2.uk/SamsungTVPlus/INBD1300010WP.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi News",Times Now Navbharat
-https://jmp2.uk/SamsungTVPlus/INBD1300003OW.m3u8
+https://dvvvc0h9v3hoz.cloudfront.net/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi News",TV9 Bharatvarsh
-https://jmp2.uk/SamsungTVPlus/INBD25000054A.m3u8
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+
+
 #EXTINF:0 tvg-id="ext" group-title="Hindi News",Good News Today
-https://jmp2.uk/SamsungTVPlus/INBC2800004FU.m3u8
+https://feeds.intoday.in/gnt/api/master.m3u8
 
 #EXTINF:0 tvg-id="CNBCAWAAZ.in" group-title="Hindi News",CNBC AWAAZ
-https://jmp2.uk/SamsungTVPlus/INBD1300007ST.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_98834_hin=98800-video=3724000.m3u8
+
 #EXTINF:0 tvg-id="mir" group-title="Hindi News",Zee Business
-https://jmp2.uk/SamsungTVPlus/INBD400004NS.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Hindi News",The Lallantop
-https://jmp2.uk/SamsungTVPlus/IN17000082K.m3u8
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="English News",India Today
-https://jmp2.uk/SamsungTVPlus/INBC2800005X4.m3u8
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="English News",WION
-https://jmp2.uk/SamsungTVPlus/INBD4000058T.m3u8
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="English News",Republic TV
-https://jmp2.uk/SamsungTVPlus/INBA4900020A5.m3u8
+https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/d02962c7-b64b-49f0-982e-99468d84fed1/2.m3u8?ads.partner=republicweb&sessionId=fd003f7e-fbb6-4082-be48-67336f292cc2
+
 #EXTINF:0 tvg-id="NDTV.uk" group-title="English News",NDTV 24X7
 https://jmp2.uk/SamsungTVPlus/INBC2800001D8.m3u8
 #EXTINF:0 tvg-id="CNN-IBN.in" group-title="English News",CNN News18
